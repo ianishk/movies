@@ -1,5 +1,9 @@
 # movies
 A simple movie library made using react
+
+## Deployment
+This application is deployed in netlify: https://anish-movies.netlify.app/
+
 ## Technologies used
  - React
  - MongoDB
