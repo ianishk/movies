@@ -8,12 +8,13 @@ This application is deployed in netlify: https://anish-movies.netlify.app/
  - React
  - MongoDB
  - Express
+ - Tailwind CSS
  - OMDB API
  ## Instructions
 
 Clone the repository
 ```
-https://github.com/ianishk/movies.git
+git clone https://github.com/ianishk/movies.git
 ```
 cd to the server folder and install the dependencies
 ```
