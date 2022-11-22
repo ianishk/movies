@@ -21,7 +21,7 @@ cd to the server folder and install the dependencies
 cd server
 npm i
 ```
-add the environment variables in the format given in .env.example
+create a .env file in the root directory and add the environment variables in the format given in .env.example
 
 run server
 ```
@@ -33,7 +33,7 @@ similarly cd to the client folder and install the dependencies
 cd client
 npm i
 ```
-add the environment variables in the format given in .env.example
+create a .env file in the root directory and add the environment variables in the format given in .env.example
 
 run client
 ```
